@@ -45,7 +45,10 @@ Most eSIM cards are for data only. Mint mobile https://www.mintmobile.com/plans/
 It is difficult to get a US-bank account without a SSN. Getting a SSN takes time, which can be annoying as some services and paying rent often require an US-bank account. Wise offers a checking account with a US routing number. Once you have your SSN you can always get your preferred credit card.
 
 #### Social Security Number
-You have to be on American soil for 14 days, before you are able to request a meeting with one of the social security managers.
+If you are in LA, then you have to be on American soil for 14 days, before you are able to request a meeting with one of the social security managers. A SSN is needed to fill out a W-2 formular (tax related) and in most cases, your company will pay out salary without a W-2. So if you can afford it, come as early as you can.
+
+#### ITIN
+Individual Taxpayer Identification Number (ITIN) is needed by if you keep your old bank accounts, as banks are required to send tax related information to US. It takes up to 7 weeks for IRS to send the documents, as your old bank might block your account after 3 months so keep this in mind.
 
 #### Finding a place to live
 - Lease appartments. A lease has typically a length between 13-16 months, and comes a break-lease clause that means you should feel certain about your situation, before signing the papers. Expect to either have to pay until the leasing company finds another tenant or 2 months lease to get out early. 
