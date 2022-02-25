@@ -51,7 +51,7 @@ If you are in LA, then you have to be on American soil for 14 days, before you a
 Individual Taxpayer Identification Number (ITIN) is needed by if you keep your old bank accounts, as banks are required to send tax related information to US. It takes up to 7 weeks for IRS to send the documents, as your old bank might block your account after 3 months so keep this in mind.
 
 #### Finding a place to live
-- Lease appartments. A lease has typically a length between 13-16 months, and comes a break-lease clause that means you should feel certain about your situation, before signing the papers. Expect to either have to pay until the leasing company finds another tenant or 2 months lease to get out early. 
+- Lease appartments. A lease has typically a length between 13-16 months, and comes a break-lease clause that means you should feel certain about your situation, before signing the papers. Expect to either have to pay until the leasing company finds another tenant or 2 months lease, if you need to break the lease. Leasing companies will typically require a good credit history. As you are new in USA, you will not have a credit history and they therefore often ask for a 2-months rate in deposit. 
 - AirBnB. More expensive than leasing, but also less financial risk if you are not sure about your new situation
 - Corporate housing. Furnished appartments that make it easy to get started.
 - Hotel. Simple, less risk, but also expensive and simple things like getting your cloth washed can be problematic. 
@@ -60,5 +60,12 @@ Individual Taxpayer Identification Number (ITIN) is needed by if you keep your o
 You are sometimes required to provide a I-94 (DHS Arrival/Departure Record issued to aliens who are admitted to the U.S., who are adjusting status while in the U.S. or extending their stay, among other things. A CBP officer generally attaches the I-94 to the non-immigrant visitor's passport upon U.S. entry.). However, the CBP officer is handing out I-94s anymore. Instead get the https://www.cbp.gov/about/mobile-apps-directory/cbpone [CBP One app](https://www.cbp.gov/about/mobile-apps-directory/cbpone) that will give you access to the I-94. 
 > "If travelers need the information from their Form I-94 admission record to verify immigration status or employment authorization, they are encouraged to get their I-94 Number from the I-94 website or by using the CBP One™ mobile app"
 
+#### Letting USCIS know your address
+You have to register your home address within 10 days of any change of address. This is done by filing an AR-11 via https://www.uscis.gov/ar-11
 
+### Other tips
 
+#### Addresses
+You often have to provide your address in a standardized form. Some standardize the address for you, but others will reject your address as invalid, if you are not using the right format. Here are some tips:
+- [Street Suffix Abbreviations](https://pe.usps.com/text/pub28/28apc_002.htm)
+- [Delivery address line](https://pe.usps.com/text/pub28/28c2_012.htm)
