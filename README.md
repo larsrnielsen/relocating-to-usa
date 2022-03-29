@@ -63,6 +63,11 @@ You are sometimes required to provide a I-94 (DHS Arrival/Departure Record issue
 #### Letting USCIS know your address
 You have to register your home address within 10 days of any change of address. This is done by filing an AR-11 via https://www.uscis.gov/ar-11
 
+### Your family
+
+#### School
+At least in California, your kids must have a certain of vaccines, before they are allowed to start in school. The list for California can be found here: [School & Childcare Requirements for Immunizations](https://cchealth.org/immunization/school-requirements.php) Be ready to provide their vaccine cards in English as documentation. As the insurance you travel to the US with does not cover regular vaccines then it is a good idea to close any gaps, before relocation.
+
 ### Other tips
 
 #### Addresses
